@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - production
+      - develop
 
 permissions:
   contents: write
@@ -18,4 +18,4 @@ jobs:
         with:
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           release-type: node
-          target-branch: production
+          target-branch: develop
