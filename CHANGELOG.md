@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jorkab/solid-waffle/compare/v1.0.0...v1.1.0) (2026-09-07)
+
+
+### Features
+
+* update config ([#5](https://github.com/jorkab/solid-waffle/issues/5)) ([b730c05](https://github.com/jorkab/solid-waffle/commit/b730c0573dd4f44b7ecc0b2a81b74dd86c24b81e))
+
 ## 1.0.0 (2026-09-01)
 
 
